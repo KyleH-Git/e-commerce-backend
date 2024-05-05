@@ -1,2 +1,1 @@
-# e-commerce-backend
-practicing sequelize and orm
+# E-commerce Back End Starter Code
