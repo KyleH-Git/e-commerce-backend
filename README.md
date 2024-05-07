@@ -6,7 +6,7 @@
 
 
   ![alt text](./Develop/assets/images/readmeimg.png)
-  
+
   ## Description
   app to practice Sequelize and PosteSQL
 
@@ -20,12 +20,6 @@
 
   ## Badges
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-  ## Contribute
-  
-
-  ## Tests
-  
 
   ## Questions
   Feel free to reach out and contact me with any questions you may have.
