@@ -3,6 +3,9 @@
   
   ## Video Link
   https://drive.google.com/file/d/1AcI3QkLoGlHh4kJ-C4ubXOuIIvfHcGLJ/view
+
+
+  ![alt text](./Develop/assets/images/readmeimg.png)
   
   ## Description
   app to practice Sequelize and PosteSQL
