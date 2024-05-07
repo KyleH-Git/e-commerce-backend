@@ -1,6 +1,9 @@
 # e-commerce-backend
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+  
+  ## Video Link
+  https://drive.google.com/file/d/1AcI3QkLoGlHh4kJ-C4ubXOuIIvfHcGLJ/view
+  
   ## Description
   app to practice Sequelize and PosteSQL
 
